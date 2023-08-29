@@ -1,0 +1,6 @@
+Dark Souls III;Souls-like;12;39.99;
+CS:GO;Shooter;110;19.99;
+Cities Skyline;City-building;180;59.99;
+Minecraft;Sandbox;23;12;
+Roblox;Kids;12.7;0;
+Outlast;Horror;65.56;29.3;

@@ -1,0 +1,9 @@
+2
+GTA V;Action;60;59.99;
+Minecraft;Sandbox;20;23;
+2
+Jocurile fericite;82.99;50;2;
+GTA V;Action;60;59.99;
+Minecraft;Sandbox;20;23;
+Jocul nefericit;59.99;20;1;
+Minecraft;Sandbox;20;23;
